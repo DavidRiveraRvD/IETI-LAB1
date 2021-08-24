@@ -1,4 +1,4 @@
-package edu.eci.Microservice.Microservice;
+package edu.eci.Microservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
