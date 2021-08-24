@@ -1,6 +1,5 @@
 package edu.eci.Microservice.data;
 
-import edu.eci.Microservice.dto.UserDto;
 import java.util.Date;
 import java.util.UUID;
 

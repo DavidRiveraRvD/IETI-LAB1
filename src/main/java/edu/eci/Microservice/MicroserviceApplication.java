@@ -1,4 +1,4 @@
-package edu.eci.Microservice.Microservice;
+package edu.eci.Microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
